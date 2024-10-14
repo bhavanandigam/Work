@@ -1,0 +1,7 @@
+2 flow git
+
+1. git clone url
+
+2. git checkout -b NameOfBranch
+
+3. git pull origin branchName 
