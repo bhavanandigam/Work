@@ -1,0 +1,15 @@
+1 FLOW OF GIT
+
+1.git init
+
+2.git status
+
+3.git add . / git add filename
+
+4.git commit -m "message"
+
+5.git remote -v
+
+6.git remote add origin "url"
+
+7.git put origin master
